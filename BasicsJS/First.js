@@ -1,2 +1,2 @@
 console.log("Harsh")
-console.log("\nPatel")
+console.log("Patel")
